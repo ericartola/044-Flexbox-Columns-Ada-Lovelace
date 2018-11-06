@@ -1,0 +1,22 @@
+.container{
+    display:flex;}
+.title{
+    display:flex;
+    justify-content:center;
+    background-color:red;
+    font-family: 'Gloria Hallelujah', cursive;}
+.left{
+    width:20%;
+    background-color:lightgrey;
+    font-family: 'Dancing Script', cursive;
+
+    }
+.right{
+    width:60%;
+    font-family: 'Dancing Script', cursive;
+}
+img{ display:flex;
+  
+   justify-content:center;
+   height: 500px ;
+   width: 600px ;}
